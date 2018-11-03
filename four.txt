@@ -1,1 +1,2 @@
 this is four.txt
+four has two lines
