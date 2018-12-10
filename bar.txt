@@ -1,3 +1,4 @@
 this is going to bar
 another line for bar
 this is the 3rd bar line
+this is the fourth bar line
