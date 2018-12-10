@@ -1,1 +1,2 @@
 this is going to bar
+another line for bar
